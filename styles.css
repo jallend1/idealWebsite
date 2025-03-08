@@ -4,18 +4,7 @@ body {
   color: #333;
   margin: 0 auto;
   max-width: 600px;
-  line-height: 1.5;
-  font-size: 1.15rem;
+  line-height: 1.75;
+  font-size: 1.1rem;
   padding: 1rem;
-}
-
-code {
-  margin: 0;
-}
-
-pre {
-  background-color: #f4f4f4;
-  padding: 0;
-  overflow-x: auto;
-  border-radius: 5px;
 }
